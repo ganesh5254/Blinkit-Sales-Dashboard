@@ -31,9 +31,10 @@ It highlights **total sales, number of items, average ratings**, and other key m
 ---
 
 ### 🖼️ Dashboard Preview
-| Overview | Filter Panel |
-|-----------|---------------|
-| ![Dashboard Overview](dashboard_preview.png) | ![Filter Panel](blinkit_filters_view.png) |
+
+| Dashboard Overview |
+|--------------------|
+| ![Dashboard Overview](Images/dashboard_overview.png) |
 
 ---
 
@@ -49,8 +50,11 @@ It highlights **total sales, number of items, average ratings**, and other key m
 **Prathamesh Shivaji Ankolikar**  
 _Data Analyst | Python | Power BI | AI Enthusiast_  
 📍 Based in Germany  
-🔗 [LinkedIn Profile](https://www.linkedin.com/) • [GitHub Portfolio](https://github.com/)
+
+🔗 **Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/prathamesh-ankolikar)  
+- [GitHub](https://github.com/ganesh5254)
 
 ---
 
-⭐ **If you like this project, don’t forget to give it a star!**
+⭐ **If you found this project insightful, don’t forget to give it a star!**
